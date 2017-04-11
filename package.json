@@ -1,15 +1,12 @@
 {
   "name": "monk-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A css framework created with flexbox",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AgenciaMonk/monk-grid.git"
-  },
+  "repository": "git+https://github.com/AgenciaMonk/monk-grid.git",
   "keywords": [
     "css",
     "framework",
